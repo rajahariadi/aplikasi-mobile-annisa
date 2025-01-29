@@ -14,7 +14,7 @@
                                 </div>
                             </div>
                             <span class="fw-semibold d-block mb-1">Total Mapel</span>
-                            <h3 class="card-title mb-2">{{ $totalMapel }}8</h3>
+                            <h3 class="card-title mb-2">{{ $totalMapel }}</h3>
                         </div>
                     </div>
                 </div>
